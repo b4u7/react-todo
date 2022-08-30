@@ -1,14 +1,3 @@
-<div align="center">
-    <p>
-        <b>
-            react todo
-        </b>
-    </p>
-    <span>
-        a very simple todo web app powered by vite, react and tailwindcss as an educational exercise
-    </span>
-</div>
-
 <div>
   <p align="center">
     <b>react todo</b>
