@@ -4,9 +4,9 @@
             react todo
         </b>
     </p>
-    <p>
+    <span>
         a very simple todo web app powered by vite, react and tailwindcss as an educational exercise
-    </p>
+    </span>
 </div>
 
 ## Development
